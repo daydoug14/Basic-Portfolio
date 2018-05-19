@@ -130,6 +130,9 @@ div.message {
     margin-top: 5px;
     margin-bottom: 350px;
 }
+.clearfix {
+    overflow: auto;
+}
 .P1 {
     background-color: #4aaaa5;
     color: white;
